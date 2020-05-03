@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a53c7b49-f9be-468a-b93d-c3df0cfbf676" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bE99KeN507dTAlREQnOzQz3BvC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.IrcBot">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="networksCW" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Connect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Connect" />
+      <module name="networksCW" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IrcBot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IrcBot" />
+      <module name="networksCW" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dom" />
+      <module name="networksCW" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ircMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ircMain" />
+      <module name="networksCW" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.dom" />
+      <item itemvalue="Application.ircMain" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.IrcBot" />
+      <item itemvalue="Application.Connect" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IrcBot" />
+        <item itemvalue="Application.Connect" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.ircMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a53c7b49-f9be-468a-b93d-c3df0cfbf676" name="Default Changelist" comment="" />
+      <created>1588186232966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588186232966</updated>
+      <workItem from="1588186235013" duration="1921000" />
+      <workItem from="1588202353774" duration="26000" />
+      <workItem from="1588202390126" duration="6680000" />
+      <workItem from="1588246239199" duration="8000" />
+      <workItem from="1588247765524" duration="4755000" />
+      <workItem from="1588267842233" duration="7314000" />
+      <workItem from="1588343822583" duration="264000" />
+      <workItem from="1588344091370" duration="27089000" />
+      <workItem from="1588431781669" duration="16284000" />
+      <workItem from="1588459013802" duration="755000" />
+      <workItem from="1588459783728" duration="9000" />
+      <workItem from="1588459796155" duration="2000" />
+      <workItem from="1588459800745" duration="29000" />
+      <workItem from="1588459874884" duration="30000" />
+      <workItem from="1588459909099" duration="76000" />
+      <workItem from="1588461171624" duration="262000" />
+      <workItem from="1588475649544" duration="112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1588459984867">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588459984867" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1588270927833" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1588459770538" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1588351876045" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1588439471881" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1588459984866">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588459984866" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1588270927829" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1588459770537" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1588351876042" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1588439471880" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1588459984865">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588459984865" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1588270927828" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1588459770536" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1588351876040" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1588439471879" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1588459984866">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588459984866" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1588270927832" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1588459770537" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1588351876044" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1588439471881" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1588458778889">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588458778889" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1588458778889">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1588458778889" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1588458778888">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1588458778888" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1588458778889">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1588458778889" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1588379247376">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1588379247376" />
+  </component>
+</project>
