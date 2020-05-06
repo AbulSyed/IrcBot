@@ -174,7 +174,6 @@ public class IrcBot {
 
             }
 
-
             // Dice game
             // Where user has a chance to guess a 6 sided dice number
             String diceNum2 = Integer.toString(diceNum);
